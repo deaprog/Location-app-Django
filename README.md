@@ -56,6 +56,8 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
+### 6. Copy and paste the sqlite3 file into location_project (the root where manage.py is located).
+
 ## Run the Development Server:
 
 ```bash
