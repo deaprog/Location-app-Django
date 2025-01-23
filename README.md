@@ -28,7 +28,7 @@ The project has the following key components:
 Clone the project from your version control system:
 
 ```bash
-git clone https://github.com/deaprog/Location-app-Django-.git
+git clone https://github.com/deaprog/Location-app-Django.git
 ```
 ### 2. Navigate to the cd location_project directory:
 
